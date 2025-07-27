@@ -24,18 +24,11 @@ This project is a cloud-native document search and AI chat solution built using 
 - Azure Function App (Python HTTP Trigger)
 
 ---
+## 🖼️ Solution Diagram
 
-## 📁 Folder Structure
-
-DocumentProcessingRAG/
-├── Utility/
-├── processors/
-├── services/
-├── function_app
-├── requirements.txt
-├── local.settings.json
-├── README.md
+![Solution Diagram](./solutiondiagram.png)
 ---
+
 ## ✅ Features
 
 - 📂 Upload & extract content from .pdf, .txt, .csv (Bonus: supports OCR/text extraction)
