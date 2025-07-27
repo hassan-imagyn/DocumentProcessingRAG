@@ -34,7 +34,6 @@ This project is a cloud-native document search and AI chat solution built using 
 - 📂 Upload & extract content from .pdf, .txt, .csv (Bonus: supports OCR/text extraction)
 - 🔍 Search indexed documents via Azure AI Search
 - 💬 Chat with documents using Azure OpenAI
-- 🧱 Clean architecture with OOP-based modular code
 - 🚀 Deployed on Azure as an HTTP-triggered Function App
 ---
 ## 🛠️ Local Development
